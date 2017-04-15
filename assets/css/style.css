@@ -63,7 +63,8 @@ ul {
 .Nav {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #ffffff;
+    margin-top: 30px;
 }
 
 .Head1 {
@@ -93,19 +94,6 @@ ul {
 	margin-right: 30px;
 }
 
-.picture {
-	float: left;
-	clear: both;
-	width: 30%;
-	height: auto;
-	margin-left: 30px;
-}
-
-.p1 {
-	float: right;
-	width: 60%
-	margin-left: 30px;
-}
 
 .GitHub {
 	margin-top: 25px;
@@ -138,12 +126,87 @@ ul {
 	margin-bottom: 40px;
 }
 
+.container1 {
+	position: relative;
+}
+
+.container2 {
+	position: relative;
+}
+
+.container3 {
+	position: relative;	
+}
+
+.container4 {
+	position: relative;
+}
+
+.container5 {
+	position: relative;
+}
+
+.container6 {
+	position: relative;
+}
+
+
+.MoveMe {
+	color: #ffffff;
+	width: 275px;
+	height: 34px;
+	background: #4aaaa5;
+	text-align: center;
+	padding-top: 16px;
+}
+
+.MoveMe1 {
+	position: relative;
+	bottom: 70px;
+	left: 30px;
+
+
+}
+
+.MoveMe2{
+	position: relative;
+	bottom: 296px;
+	left: 345px;
+
+}
+
+.MoveMe3 {
+	position: relative;
+	bottom: 345px;
+	left: 30px;
+}
+
+.MoveMe4 {
+	position: relative;
+	bottom: 576px;
+	left: 345px;
+}
+
+.MoveMe5 {
+	position: relative;
+	bottom: 625px;
+	left: 30px;
+
+}
+
+.MoveMe6 {
+	position: relative;
+	bottom: 856px;
+	left: 345px;
+}
+
 .port1 {
 	width: 275px;
 	height: auto;
 	margin-left: 30px;
 	margin-right: 35px;
 	margin-top: 35px;
+	position: relative;
 }
 
 .port2 {
@@ -151,6 +214,10 @@ ul {
 	height: auto;
 	margin-right: 30px;
 	margin-top: 35px;
+	position: relative;
+	left: 345px;
+	bottom: 226px;
+
 }
 
 .port3 {
@@ -159,6 +226,8 @@ ul {
 	margin-left: 30px;
 	margin-right: 35px;
 	margin-top: 40px;
+	position: relative;
+	bottom: 275px;
 }
 
 .port4 {
@@ -166,6 +235,9 @@ ul {
 	height: auto;
 	margin-right: 30px;
 	margin-top: 40px;
+	position: relative;
+	left: 345px;
+	bottom: 506px;
 }
 
 .port5 {
@@ -174,6 +246,8 @@ ul {
 	margin-left: 30px;
 	margin-right: 35px;
 	margin-top: 40px;
+	position: relative;
+	bottom: 555px;
 }
 
 .port6 {
@@ -181,6 +255,9 @@ ul {
 	height: auto;
 	margin-right: 30px;
 	margin-top: 40px;
+	position: relative;
+	left: 345px;
+	bottom: 786px;
 }
 
 .form {
@@ -223,6 +300,27 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 4px 2px;
     cursor: pointer;
     margin-bottom: 5px;
+}
+
+.AboutMeSection {
+	float: left;
+
+
+}
+
+.picture {
+	float: left;
+	clear: both;
+	width: 30%;
+	height: auto;
+	margin-left: 30px;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+
+.Order66 {
+	margin-left: 20px;
+	margin-right: 30px;
 }
 
 
